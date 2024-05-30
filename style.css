@@ -1,0 +1,73 @@
+{
+    padding: 0;
+}
+body{
+    font-family: "Young Serif", serif;
+
+}
+.section-one{
+    color: rgb(174, 120, 120); background-color: black;
+    padding: 20px;
+}
+ .section__one__name {
+    font-size: 60px;
+
+ }
+ .section__one__role{
+    font-size: 30px;
+    margin-top: 10px;
+ }
+ .section__one__contact{
+    background-color: orangered;
+    color: white;
+    text-decoration: none;
+    padding-left: 10px;
+    padding-right: 10px;
+    padding-top: 5px;
+    padding-bottom: 5px;
+    margin-top: 10px;
+ }
+
+ .section-two
+ {
+    margin-top: 20px;
+ }
+ .section-two__content
+ {
+    margin-top: 10px;
+ }
+ .section-three{
+    background-color: #6462fd;
+    color:black;
+    padding: 10px;
+    border-radius: 10px;
+    margin-top: 5px; 
+    display: inline-block;
+    height: 250px;
+    vertical-align: top;
+    
+    
+
+    
+ }
+ li{
+    list-style: none;
+ }
+ .section-four
+ {
+    background-color: orangered;
+    color-scheme: black;
+    padding: 10px;
+    border-radius: 10px;
+    margin-top: 5px;
+    display: inline-block;
+    height: 250px;
+    
+ }
+ .section-five
+ {
+    background-color: black;
+    color: white;
+    padding: 20px;
+    margin-top: 20px;
+ }

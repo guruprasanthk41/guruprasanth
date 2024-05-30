@@ -1,0 +1,27 @@
+{
+    padding: 0;
+}
+body {
+    font-family: "Young Serif", serif;
+}
+.section-six{
+    color: white; background-color: black;
+    padding: 20px;
+}
+.section-six__home{
+    background-color: orangered;
+}
+.section-seven{
+    margin-left: 120px;
+    margin-top: 10px;
+    color: black;
+    background-color: orangered;
+}
+.section-eight{
+    margin-top: 15px;
+    border-style: none;
+}
+.section-nine{
+    color: white;
+    background-color:black;
+}
